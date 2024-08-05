@@ -1,0 +1,14 @@
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\bin\Debug\net8.0\CommandDPDemo.exe
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\bin\Debug\net8.0\CommandDPDemo.deps.json
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\bin\Debug\net8.0\CommandDPDemo.runtimeconfig.json
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\bin\Debug\net8.0\CommandDPDemo.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\bin\Debug\net8.0\CommandDPDemo.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.AssemblyInfoInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.AssemblyInfo.cs
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.csproj.CoreCompileInputs.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\refint\CommandDPDemo.dll
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.pdb
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.genruntimeconfig.cache
+C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\ref\CommandDPDemo.dll
