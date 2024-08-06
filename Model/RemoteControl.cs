@@ -9,7 +9,7 @@ namespace CommandDPDemo.Model
     internal class RemoteControl
     {
         private ICommand _command;
-        public RemoteControl(ICommand command)
+        public void SetCommand(ICommand command)
         {
             _command = command;
         }

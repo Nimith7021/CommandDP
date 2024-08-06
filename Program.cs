@@ -8,10 +8,12 @@ namespace CommandDPDemo
         {
            Television tv = new Television();
             ICommand command = new OnCommand(tv);
-            RemoteControl remoteControl = new RemoteControl(command);
+            RemoteControl remoteControl = new RemoteControl();
+            remoteControl.SetCommand(command);
             remoteControl.pressButton();
             command = new OffCommand(tv);
-            remoteControl = new RemoteControl(command);
+            remoteControl = new RemoteControl();
+            remoteControl.SetCommand(command);
             remoteControl.pressButton();
         }
     }

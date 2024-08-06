@@ -12,3 +12,18 @@ C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\refint\Com
 C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.pdb
 C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\CommandDPDemo.genruntimeconfig.cache
 C:\Users\nimith.shetty\Desktop\AproSCM\CommandDPDemo\obj\Debug\net8.0\ref\CommandDPDemo.dll
+D:\C# Training github\CommandDP\bin\Debug\net8.0\CommandDPDemo.exe
+D:\C# Training github\CommandDP\bin\Debug\net8.0\CommandDPDemo.deps.json
+D:\C# Training github\CommandDP\bin\Debug\net8.0\CommandDPDemo.runtimeconfig.json
+D:\C# Training github\CommandDP\bin\Debug\net8.0\CommandDPDemo.dll
+D:\C# Training github\CommandDP\bin\Debug\net8.0\CommandDPDemo.pdb
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.AssemblyInfoInputs.cache
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.AssemblyInfo.cs
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.csproj.CoreCompileInputs.cache
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.sourcelink.json
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.dll
+D:\C# Training github\CommandDP\obj\Debug\net8.0\refint\CommandDPDemo.dll
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.pdb
+D:\C# Training github\CommandDP\obj\Debug\net8.0\CommandDPDemo.genruntimeconfig.cache
+D:\C# Training github\CommandDP\obj\Debug\net8.0\ref\CommandDPDemo.dll

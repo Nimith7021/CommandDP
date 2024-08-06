@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\CommandDPDemo\\CommandDPDemo.csproj": {}
+    "D:\\C# Training github\\CommandDP\\CommandDPDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\CommandDPDemo\\CommandDPDemo.csproj": {
+    "D:\\C# Training github\\CommandDP\\CommandDPDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\CommandDPDemo\\CommandDPDemo.csproj",
+        "projectUniqueName": "D:\\C# Training github\\CommandDP\\CommandDPDemo.csproj",
         "projectName": "CommandDPDemo",
-        "projectPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\CommandDPDemo\\CommandDPDemo.csproj",
+        "projectPath": "D:\\C# Training github\\CommandDP\\CommandDPDemo.csproj",
         "packagesPath": "C:\\Users\\nimith.shetty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nimith.shetty\\Desktop\\AproSCM\\CommandDPDemo\\obj\\",
+        "outputPath": "D:\\C# Training github\\CommandDP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nimith.shetty\\AppData\\Roaming\\NuGet\\NuGet.Config",
